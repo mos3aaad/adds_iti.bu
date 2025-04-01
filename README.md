@@ -14,7 +14,9 @@ DC1 (Domain Controller)
 
 RODC (Read-Only Domain Controller)
 
-WS (Web Server)- PC1 (Client Computer)
+WS (Web Server)- 
+
+PC1 (Client Computer)
 
 All three servers were installed with Windows Server 2022 Desktop Edition, while PC1 was installed with Windows 10 Pro Edition. 
 
